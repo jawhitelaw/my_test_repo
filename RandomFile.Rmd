@@ -10,7 +10,7 @@ hi git
 hi ella
 
 ```{r}
-3+2
+3+2+1
 ```
 
 We love git
